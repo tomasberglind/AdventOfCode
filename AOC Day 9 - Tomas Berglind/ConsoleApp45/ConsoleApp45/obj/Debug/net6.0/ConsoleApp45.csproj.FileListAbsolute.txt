@@ -1,0 +1,15 @@
+C:\Users\Tomas\source\repos\ConsoleApp45\ConsoleApp45\bin\Debug\net6.0\ConsoleApp45.exe
+C:\Users\Tomas\source\repos\ConsoleApp45\ConsoleApp45\bin\Debug\net6.0\ConsoleApp45.deps.json
+C:\Users\Tomas\source\repos\ConsoleApp45\ConsoleApp45\bin\Debug\net6.0\ConsoleApp45.runtimeconfig.json
+C:\Users\Tomas\source\repos\ConsoleApp45\ConsoleApp45\bin\Debug\net6.0\ConsoleApp45.dll
+C:\Users\Tomas\source\repos\ConsoleApp45\ConsoleApp45\bin\Debug\net6.0\ref\ConsoleApp45.dll
+C:\Users\Tomas\source\repos\ConsoleApp45\ConsoleApp45\bin\Debug\net6.0\ConsoleApp45.pdb
+C:\Users\Tomas\source\repos\ConsoleApp45\ConsoleApp45\obj\Debug\net6.0\ConsoleApp45.csproj.AssemblyReference.cache
+C:\Users\Tomas\source\repos\ConsoleApp45\ConsoleApp45\obj\Debug\net6.0\ConsoleApp45.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomas\source\repos\ConsoleApp45\ConsoleApp45\obj\Debug\net6.0\ConsoleApp45.AssemblyInfoInputs.cache
+C:\Users\Tomas\source\repos\ConsoleApp45\ConsoleApp45\obj\Debug\net6.0\ConsoleApp45.AssemblyInfo.cs
+C:\Users\Tomas\source\repos\ConsoleApp45\ConsoleApp45\obj\Debug\net6.0\ConsoleApp45.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\source\repos\ConsoleApp45\ConsoleApp45\obj\Debug\net6.0\ConsoleApp45.dll
+C:\Users\Tomas\source\repos\ConsoleApp45\ConsoleApp45\obj\Debug\net6.0\ref\ConsoleApp45.dll
+C:\Users\Tomas\source\repos\ConsoleApp45\ConsoleApp45\obj\Debug\net6.0\ConsoleApp45.pdb
+C:\Users\Tomas\source\repos\ConsoleApp45\ConsoleApp45\obj\Debug\net6.0\ConsoleApp45.genruntimeconfig.cache
